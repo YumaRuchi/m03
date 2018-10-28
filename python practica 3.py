@@ -9,7 +9,7 @@ if(clima=="lluvia"):
     print("Ponte el sombrero")
 if(clima=="soleado")and((hora>=13)and(hora<=16)):
     print("Ponte las gafas de sol")
-if((estacion="verano")and(((hora>=22)and(hora<=24))or((hora>=00)and(hora<=04)))and(temperatura<=17)):
+if((estacion=="verano")and(((hora>=22)and(hora<=24))or((hora>=0)and(hora<=4)))and(temperatura<=17)):
     print("Ponte un pantalón largo")
     else:
-        print("Ponte pantalon corto")
+        print("Ponte pantalon corto"))
