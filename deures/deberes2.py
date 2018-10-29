@@ -11,4 +11,4 @@ if (edad>=65) or ((sexe=="dona") and (edad<65) and (cabells=="rossos")):
 elif (sexe=="home") and (edad<65):
          print("pagas 1€")
 else:
-         print("pagas 0.2€")
+         print("pagas 0.5€")
