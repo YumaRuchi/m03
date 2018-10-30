@@ -5,4 +5,4 @@
 #-negativo
 #Nota: una sola condició
 numero=float(input("Escribe un numero:"))
-if numero
+if  numero < 0
