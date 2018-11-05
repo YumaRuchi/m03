@@ -8,7 +8,7 @@ else:
         problemas_corazon=input("¿Tiene problemas del corazón?")
         casado=input("¿Está casado?")
         if edad>=80 and problemas_corazon=="si" and casado=="no":
-            print("Estás de suerte, sueldo vitalicio")
+            print("Estás de suerte, sueldo vitalicio en cuanto el viejo se muera")
     else:
         print("Todavía tienes una forma de cobrar 3.000€ al mes, a ver esas notas.")
         m01=int(input("¿Que nota sacaste en m01?"))
