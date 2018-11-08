@@ -8,4 +8,4 @@ else:
         print("Han pasado",anyo_actual-anyo_cualquiera,"años desde",anyo_cualquiera,".")
     else:
         if anyo_actual<anyo_cualquiera:
-            print("faltan",anyo_cualquiera-anyo_actual,"para el año",anyo_cualquiera,".")
+            print("faltan",anyo_cualquiera-anyo_actual,"años para el año",anyo_cualquiera,".")
