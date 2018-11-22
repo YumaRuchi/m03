@@ -1,3 +1,4 @@
+#cada 30 dias canviar de mes
 print("enero")
 for dia in range(0,365):
     print(dia+1)
