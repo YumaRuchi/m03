@@ -1,4 +1,4 @@
-loteria=input("Has ganado la loteria?")
+loteria=input("¿Has ganado la loteria?")
 if loteria=="si":
     print("Cobras 3.000 euros netos")
 else:
