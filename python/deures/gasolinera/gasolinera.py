@@ -2,19 +2,19 @@ tipo_gasolina=int(input("Preguntamos al usuario que tipo de gasolina quiere:\n-S
 litros=int(input("¿Cuantos litros quieres? "))
 if tipo_gasolina==1:
     tipo_gasolina=1.5
-    print("El importe es de",tipo_gasolina*litros,".")
+    print("El importe es de",tipo_gasolina*litros,"€.")
 if tipo_gasolina==2:
     tipo_gasolina=1.55
-    print("El importe es de",tipo_gasolina*litros,".")
+    print("El importe es de",tipo_gasolina*litros,"€.")
 if tipo_gasolina==3:
     tipo_gasolina=1.6
-    print("El importe es de",tipo_gasolina*litros,".")
+    print("El importe es de",tipo_gasolina*litros,"€.")
 if tipo_gasolina==4:
     tipo_gasolina=1.65
-    print("El importe es de",tipo_gasolina*litros,".")
+    print("El importe es de",tipo_gasolina*litros,"€.")
 if tipo_gasolina==5:
     tipo_gasolina=1.7
-    print("El importe es de",tipo_gasolina*litros,".")
+    print("El importe es de",tipo_gasolina*litros,"€.")
 if tipo_gasolina==6:
     tipo_gasolina=1.75
-    print("El importe es de",tipo_gasolina*litros,".")
+    print("El importe es de",tipo_gasolina*litros,"€.")
