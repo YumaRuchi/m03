@@ -1,7 +1,7 @@
 num1=int(input("escoje un numero"))
 num2=int(input("escoje otro numero"))
 if num1<=0 or num2 <=0:
-    print("No puedes escojer el numero 0")
+    print("No puedes escoger un numero igual o inferior a 0")
 else:
     if num1==num2:
         print("Son iguales")
